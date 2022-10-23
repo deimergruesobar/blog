@@ -1,0 +1,11 @@
+enable : true
+heading : "LA CALIDAD ES NUESTRO OBJETIVO!"
+counter_item:
+  - title: "ESPECIALISTAS"
+    number: "3"
+
+  - title: "ODONTOLOGOS GENERALES"
+    number: "2"
+
+  - title: "PROCEDIMIENTOS ESPECIALIZADOS"
+    number: "12"

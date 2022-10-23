@@ -1,0 +1,39 @@
+enable  : true
+title   : "NUESTROS FUNDADORES"
+subtitle: "Las caras de quienes te hacen sonreir."
+testimonial_item :
+  - thumb : "images/testimonial/Negra_foto.jpeg"
+    name  : "Alejandra Grueso"
+    company_position: "Estética y Rehabilitación Oral"
+    quote : >
+            "Odontóloga, titulada de la universidad Santo Tomas. Con 9 años y 6 meses de experiencia profesional en Estética y Rehabilitación Oral. Servicios de odontología general, restablecimiento de la función y estética dental, atención de urgencias odontológicas. Especialidad en Rehabilitación Oral e implantología en curso."
+
+  - thumb : "images/testimonial/user-thumb-two.png"
+    name  : "Badhir Mariscal"
+    company_position: "Cirugía bucal, Estética y Rehabilitación oral"
+    quote : >
+            "Odontólogo, titulado de la universidad Autónoma de Sinaloa. Con 10 años de experiencia profesional en Cirugía bucal, Estética y Rehabilitación oral. Con cursos y Diplomados en implantología oral y Diseño de Sonrisa."
+
+#  - thumb : "images/testimonial/user-thumb-three.jpg"
+#    name  : "Ryan Hillary"
+#    company_position: "MD, Udilamo"
+#    quote : >
+#            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush."
+#
+#  - thumb : "images/testimonial/user-thumb-four.jpg"
+#    name  : "Dockrel Kahn"
+#    company_position: "PM, Walmet"
+#    quote : >
+#            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies."
+#
+#  - thumb : "images/testimonial/user-thumb-five.jpg"
+#    name  : "Orino Monteno"
+#    company_position: "CEO, Axion"
+#    quote : >
+#            "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element."
+#
+#  - thumb : "images/testimonial/user-thumb-six.jpg"
+#    name  : "Welfo Roy"
+#    company_position: "PDO, Komoyo"
+#    quote : >
+#            "We’re a really busy restaurant, and roxo gives our customers a easy way to order, pay, and pick up their food so they can beat the line and beat that lunch rush."

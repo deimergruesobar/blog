@@ -1,0 +1,60 @@
+{{ define "main" }}
+<section class="site-contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-5">
+        <h1 class="site-contact-title">
+          {{ .Params.heading | safeHTML }}
+        </h1>
+      </div>
+      <div class="col-lg-6 ml-auto">
+        <div class="site-contact-form">
+          <h4>{{ .Params.form_heading }}</h4>
+          <form id="contact-form" action="https://docs.google.com/forms/d/e/1FAIpQLSdrCKH5Ub4yzor8r3jrvc6jVKBIkZbgKSPpL6KCWgCqV_uMfA/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true">
+            <div class="row">
+<!--              <label>Name*</label>-->
+                <div class="col-lg-6">
+                  <input type="text" placeholder="Nombre*" class="form-input" name="entry.2091595999" required>
+              </div>
+<!--              <label>Name*</label>-->
+                <div class="col-lg-6">
+                  <input type="text" placeholder="Apellido*" class="form-input" name="entry.2093538033" required>
+              </div>
+<!--               <label>Email*</label>-->
+                 <div class="col-lg-6">
+                   <input type="email" placeholder="Email *" class="form-input" name="entry.1416303108" required>
+              </div>
+<!--                 <label>Subject*</label>-->
+              <div class="col-lg-6">
+                      <input type="text" placeholder="Telefono*" class="form-input" name="entry.1825553415" required>
+                </div>
+              </div>
+            <br>
+<!--               <label>Message</label>-->
+                 <div class="col-0">
+                    <textarea rows="6" placeholder="Mensaje" class="form-input" name="entry.1623669849" ></textarea>
+              </div>
+            <br>
+              <div>
+                </div>
+              <div class="col-0">
+                <button formtarget="_blank" type="submit" class="btn btn-primary" id="contact-form-button">
+                  <span class="btn-area">
+                    <span data-text="{{ .Site.Params.contactForm.send_message }}">
+                      {{ .Site.Params.contactForm.send_message }}
+                    </span>
+                  </span>
+                </button>
+              </div>
+              <p id="contact-form-status"></p>
+            </div>
+          </form>
+          <p class="contact-form-generator">
+            <strong>** </strong><a href="https://fabform.io/" target="_blank">Static website forms</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
