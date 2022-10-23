@@ -2,9 +2,9 @@
 title: "Cirugía Oral"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "http://aldentalspot.com.mx/wp-content/uploads/2022/02/01_Ima_web_-768x576.png"
+image: "images/projects/blanqueamiento.jpg/01_Ima_web_-768x576.png"
 category: ["Estética"]
-project_images: ["http://aldentalspot.com.mx/wp-content/uploads/2022/02/01_Ima_web_-768x576.png"]
+project_images: ["images/projects/blanqueamiento.jpg/01_Ima_web_-768x576.png"]
 ---
 
 

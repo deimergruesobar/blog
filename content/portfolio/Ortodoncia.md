@@ -2,9 +2,9 @@
 title: "Ortodoncia"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "http://aldentalspot.com.mx/wp-content/uploads/2022/01/dental-braces-in-happy-woman-s-mouths-who-shows-by-finger-on-brackets-on-the-teeth-after-whitening-self-ligating-brackets-with-metal-ties-and-gray-elastics-or-rubber-bands-for-perfect-smile-1024x683.jpg"
+image: "images/projects/ortodoncia.jpeg"
 category: ["Estética"]
-project_images: ["http://aldentalspot.com.mx/wp-content/uploads/2022/02/11_Img_DentalSpot--1024x768.png"]
+project_images: ["images/projects/11_Img_DentalSpot--1024x768.png"]
 ---
 
 # Ortodoncia

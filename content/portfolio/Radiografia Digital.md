@@ -2,9 +2,9 @@
 title: "Radiografía Digital"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "http://aldentalspot.com.mx/wp-content/uploads/2022/03/AdobeStock_181197910-768x513.jpeg"
+image: "images/projects/AdobeStock_181197910-768x513.jpeg"
 category: ["Estética"]
-project_images: ["http://aldentalspot.com.mx/wp-content/uploads/2022/03/AdobeStock_181197910-768x513.jpeg"]
+project_images: ["images/projects/AdobeStock_181197910-768x513.jpeg"]
 ---
 
 # Radiografía Digital
