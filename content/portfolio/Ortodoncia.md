@@ -2,7 +2,7 @@
 title: "Ortodoncia"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "images/projects/ortodoncia.jpeg"
+image: "images/projects/ortodoncia.jpg"
 category: ["Estética"]
 project_images: ["images/projects/11_Img_DentalSpot--1024x768.png"]
 ---

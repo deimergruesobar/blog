@@ -85,7 +85,7 @@ summarylength = 25
     title               = "DEJANOS ASESORARTE"
     primary_button      = "Contactanos"
     primary_button_url  = "contact"
-    secondary_button    = "Videos y Procedimientos"
+    secondary_button    = "Mas Procedimientos"
     secondary_button_url = "portfolio"
 
   [params.footer]
