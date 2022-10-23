@@ -7,7 +7,7 @@ category: ["Estética"]
 project_images: ["images/projects/07_Img_DentalSpot-1024x768.png"]
 ---
 
-PERIODONCIA
+
 
 En los casos más avanzados, hay movilidad dental y cambio en la posición de los dientes e inclusive exudado abundante de las encías. La infección en un diente, genera un absceso periodontal, y se presentará un dolor punzante y mal sabor de boca.
 

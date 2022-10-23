@@ -7,7 +7,6 @@ category: ["Estética"]
 project_images: ["images/projects/11_Img_DentalSpot--1024x768.png"]
 ---
 
-# Ortodoncia
 
 La colocación de bráckets o aparatología en los dientes puede **corregir malposiciones dentales, maloclusiones dentales,** trastornos de la Articulación Temporomandibular (ATM) **que dificultan la función masticatoria y estética dental.**
 

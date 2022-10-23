@@ -7,7 +7,6 @@ category: ["Estética"]
 project_images: ["images/projects/10_Img_DentalSpot--768x576.png"]
 ---
 
-# Endodoncia
 
 Es posible salvar un diente que presente caries profundas, desgastes, fracturas o  infecciones dentales que causan la perdida de uno o varios dientes.  
 Ante un nervio dental dañado, se trata la pulpa de la pieza dental, con equipos de tecnología, materiales biocompatibles y restauraciones estéticas.       

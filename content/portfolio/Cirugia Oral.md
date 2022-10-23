@@ -8,7 +8,6 @@ project_images: ["images/projects/01_Ima_web_-768x576.png"]
 ---
 
 
-Cirugía Oral
 
  **Extracciones dentales:**
 

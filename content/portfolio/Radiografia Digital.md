@@ -7,7 +7,6 @@ category: ["Estética"]
 project_images: ["images/projects/AdobeStock_181197910-768x513.jpeg"]
 ---
 
-# Radiografía Digital
 
 Contamos con Rayos X y sensor digital que permiten tomar radiografías y digitalizarlas, con herramientas de última tecnología, para asegurar un correcto diagnóstico, ya que nos proporcionan una información más detallada en cada pieza dental.
 

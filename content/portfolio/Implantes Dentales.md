@@ -7,7 +7,6 @@ category: ["Estética"]
 project_images: ["images/projects/Implante-Dental-01-768x768.png"]
 ---
 
-# Implantes Dentales
 
 Además de la evidente falta de estética, al perder una pieza dental; con los implantes dentales, se pueden **recuperar las funciones originales** de una dentadura completa.
 

@@ -7,7 +7,6 @@ category: ["REBRAND"]
 
 ---
 
-## Rellenos e Incrustaciones Dentales
 
 Recupera la forma y función de tus dientes al poder masticar y sonreír sin dolor o sensibilidad en tus dientes.
 
