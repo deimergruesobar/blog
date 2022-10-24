@@ -1,1 +1,1 @@
-# ALDentalBlog
+# ALDENTALBlog

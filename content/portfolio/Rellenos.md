@@ -17,7 +17,7 @@ Recupera la forma y función de tus dientes al poder masticar y sonreír sin dol
 
 ### Estética dental en Resina:
 
-![Resina](http://aldentalspot.com.mx/wp-content/uploads/2022/02/08.1_Img_DentalSpot-copy-1024x768.png)
+![Resina](http://ALDENTALspot.com.mx/wp-content/uploads/2022/02/08.1_Img_DentalSpot-copy-1024x768.png)
 
 
 
@@ -27,4 +27,4 @@ Restaura y recupera la función de tus dientes, al eliminar caries y cambiar re
 
 Las incrustaciones dentales permiten conservar al máximo la estructura dental, ya que la preparación dental que se realiza es mínima.
 
-![Incrustacion](http://aldentalspot.com.mx/wp-content/uploads/2022/02/9_Img_DentalSpot--1024x768.png)
+![Incrustacion](http://ALDENTALspot.com.mx/wp-content/uploads/2022/02/9_Img_DentalSpot--1024x768.png)

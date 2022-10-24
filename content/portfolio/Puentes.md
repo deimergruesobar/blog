@@ -13,4 +13,4 @@ category: ["Rehabilitacion"]
 Su principal función es terapéutica, se emplean para recuperar uno o más dientes perdidos, usando como soporte dientes sanos que cumplan con las características ideales para soportar un puente fijo.
 
 
-![Puentes](http://aldentalspot.com.mx/wp-content/uploads/2022/02/12_Img_DentalSpot--1024x768.png)
+![Puentes](http://ALDENTALspot.com.mx/wp-content/uploads/2022/02/12_Img_DentalSpot--1024x768.png)
