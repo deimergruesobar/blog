@@ -2,7 +2,7 @@
 title: "Endodoncia"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "images/projects/10_Img_DentalSpot--768x576.png"
+image: "images/projects/endodoncia.png"
 category: ["Estética"]
 project_images: ["images/projects/10_Img_DentalSpot--768x576.png"]
 ---

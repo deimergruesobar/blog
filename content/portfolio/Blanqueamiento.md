@@ -2,9 +2,9 @@
 title: "BLANQUEAMIENTO DENTAL"
 date: 2019-12-23T15:44:46+06:00
 type: portfolio
-image: "images/projects/blanqueamiento.jpg"
+image: "images/projects/blanqueamiento.png"
 category: ["Estetica"]
-project_images: ["images/projects/blanqueamiento1.jpg"]
+project_images: ["images/projects/blanqueamiento.png"]
 ---
 
 

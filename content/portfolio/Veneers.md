@@ -2,7 +2,7 @@
 title: "Carillas o Veneers"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "images/projects/Carillas.jpg"
+image: "images/projects/carilla.png"
 category: ["Estética"]
 project_images: ["images/projects/lAhGNGKuhR0-unsplash.jpg"]
 ---

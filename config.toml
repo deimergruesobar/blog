@@ -96,7 +96,7 @@ summarylength = 25
       phone   = "+52 409 896 1444"
       phone1   = "+52 664 138 1628"
       phone2   = "+1 619 225 7225"
-      email   = "contact@ALDENTAL.mx"
+      email   = "contact@aldental.mx"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"

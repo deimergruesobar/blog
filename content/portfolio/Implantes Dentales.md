@@ -2,7 +2,7 @@
 title: "Implantes Dentales"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "images/projects/Implante-Dental-01-768x768.png"
+image: "images/projects/implante.png"
 category: ["Estética"]
 project_images: ["images/projects/Implante-Dental-01-768x768.png"]
 ---

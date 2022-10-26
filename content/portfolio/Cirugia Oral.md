@@ -2,9 +2,9 @@
 title: "Cirugía Oral"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "images/projects/01_Ima_web_-768x576.png"
+image: "images/projects/instrumental.png"
 category: ["Estética"]
-project_images: ["images/projects/01_Ima_web_-768x576.png"]
+project_images: ["images/projects/instrumental.png"]
 ---
 
 
