@@ -1,4 +1,4 @@
-baseURL       = "https://www.ALDENTAL.mx/"
+baseURL       = "https://www.aldental.mx/"
 languageCode  = "en-us"
 title         = "ALDENTAL | Profesionales de la sonrisa "
 theme         = "roxo"
