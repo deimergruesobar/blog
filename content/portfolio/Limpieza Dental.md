@@ -4,7 +4,7 @@ date: 2019-12-23T20:56:42+06:00
 type: portfolio
 image: "images/projects/limpieza-dental-profilaxis-825x465-1.jpeg"
 category: ["Estética"]
-project_images: ["images/projects/15_Img_DentalSpot-.png"]
+project_images: ["images/projects/limpieza-dental-profilaxis-825x465-1.jpeg"]
 ---
 
 De forma periódica se requiere de la eliminación del sarro y placa bacteriana adheridos a los dientes, para prevenir infecciones en los tejidos de la cavidad oral, mediante la utilización de un aparato de ultrasonidos.
