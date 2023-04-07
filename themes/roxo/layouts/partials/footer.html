@@ -1,4 +1,37 @@
 <footer class="site-footer">
+  <title>WhatsApp Button</title>
+	<style>
+		/* Style for the button */
+		.whatsapp-btn {
+			position: fixed;
+			bottom: 20px;
+			right: 20px;
+			z-index: 9999;
+			background-color: #25d366;
+			color: #fff;
+			font-size: 20px;
+			padding: 15px;
+			border-radius: 50%;
+			box-shadow: 2px 2px 3px #999;
+			text-align: center;
+			cursor: pointer;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+
+		/* Style for the icon */
+		.whatsapp-icon {
+			width: 30px;
+			height: 30px;
+			margin-right: 10px;
+		}
+
+		/* Style for the button on hover */
+		.whatsapp-btn:hover {
+			background-color: #128c7e;
+		}
+	</style>
   <div class="container">
     <div class="row">
       <div class="col-12">
@@ -74,6 +107,11 @@
     </div>
 
   </div>
+  	<!-- WhatsApp button -->
+	<a href="https://wa.me/+526634312400" target="_blank" rel="noopener noreferrer" class="whatsapp-btn">
+		<img src="https://cdn-icons-png.flaticon.com/512/1384/1384055.png" alt="WhatsApp icon" class="whatsapp-icon">
+		Chat on WhatsApp
+	</a>
 </footer>
 
 <!-- {{ $formhandler := resources.Get "js/formhandler.js" | minify }}
