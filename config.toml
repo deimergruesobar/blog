@@ -93,9 +93,7 @@ summarylength = 25
     [params.footer.contactInfo]
       title   = "Visitanos"
       address = "Cristóbal Colón y o Av. H 1032, Zona Centro, 22000 Tijuana, B.C."
-      phone   = "+52 409 896 1444"
-      phone1   = "+52 664 138 1628"
-      phone2   = "+1 619 225 7225"
+      phone   = "+52 663 431 2400"
       email   = "contact@aldental.mx"
       # Footer Sitemap
       [params.footer.sitemap]
